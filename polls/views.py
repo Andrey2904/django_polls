@@ -17,3 +17,14 @@ def rubric_bbs(request, rubric_id):
     context = {'bbs': bbs, 'rubrics': rubrics,
         'current_rubric': current_rubric}
     return render(request, 'polls/rubric_bbs.html', context)
+
+
+"""
+wefwefw
+wefwfewf
+wfewefw
+
+wefwefw
+fw
+few
+"""
